@@ -1,0 +1,447 @@
+﻿cl : 命令列  warning D9035: 選項 'Gm' 已被取代，在未來的發行版本中將會移除
+  w32_portaudio_dll.c
+  w32_libOggFLAC_dll.c
+  w32_libFLAC_dll.c
+  w32g_vorbis_dll.c
+  w32g_vorbisenc_dll.c
+  w32g_ogg_dll.c
+  wrdt_w32g.c
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(169,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/wrdt_w32g.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(173,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/wrdt_w32g.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(180,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/wrdt_w32g.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(184,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/wrdt_w32g.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(189,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/wrdt_w32g.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_wrd.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '../interface/wrdt_w32g.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\wrdt_w32g.c(260,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\wrdt_w32g.c(543,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\wrdt_w32g.c(590,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  w32g_utl.c
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(169,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_utl.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(173,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_utl.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(180,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_utl.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(184,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_utl.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(189,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_utl.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(141,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(160,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(205,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(218,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(228,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(238,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(248,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(261,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(262,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(275,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(276,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(286,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(308,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(350,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(352,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(354,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(356,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(358,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(360,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(372,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(374,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(376,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(378,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(380,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(382,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(387,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(418,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(420,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(422,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(424,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(426,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(428,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(441,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(443,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(445,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(447,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(449,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(451,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(454,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(548,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(556,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(574,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(716,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(717,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(742,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(746,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(879,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(880,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(881,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(882,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(883,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(884,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(885,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(908,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(910,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(913,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(915,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(918,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(920,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(922,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(924,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(971,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(1224,12): warning C4267: '=': 將 'size_t' 轉換為 'char'，資料可能遺失
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(1208,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(1350,6): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(1365,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(1385,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_utl.c(1402,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  w32g_ut2.c
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(169,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_ut2.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(173,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_ut2.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(180,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_ut2.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(184,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_ut2.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(189,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_ut2.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(61,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(86,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(100,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(122,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(175,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(184,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(188,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(221,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(224,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(227,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(229,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(234,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(236,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(238,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(259,19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(261,19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(284,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(287,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(290,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(292,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(297,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(299,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(301,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(322,19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(324,19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(347,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(350,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(575,6): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(719,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(721,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(723,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(747,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(749,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ut2.c(751,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  w32g_subwin3.c
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '../interface/w32g_subwin3.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_tracer.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '../interface/w32g_subwin3.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(350,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(352,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(510,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(511,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(520,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(603,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(607,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(608,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(962,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(985,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(990,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1000,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1005,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1009,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1013,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1746,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1749,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1752,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1755,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1758,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1761,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1764,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1767,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1770,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1773,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1776,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1779,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1782,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1785,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1796,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1803,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1906,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(1936,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(2161,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(2164,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin3.c(2168,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  w32g_subwin2.c
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin2.c(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(169,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_subwin2.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(173,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_subwin2.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(180,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_subwin2.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(184,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_subwin2.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(189,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_subwin2.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '../interface/w32g_subwin2.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_wrd.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '../interface/w32g_subwin2.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin2.c(310,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin2.c(312,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin2.c(797,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin2.c(1622,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin2.c(2134,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin2.c(2137,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin2.c(2141,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  w32g_subwin.c
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(169,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_subwin.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(173,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_subwin.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(180,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_subwin.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(184,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_subwin.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(189,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_subwin.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '../interface/w32g_subwin.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(487,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(845,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(846,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(887,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(897,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(974,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1048,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1207,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1208,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1249,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1364,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1369,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1473,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1496,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1502,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1505,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1508,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1514,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1517,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1520,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1559,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1562,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1565,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_subwin.c(1645,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  w32g_pref.c
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(169,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_pref.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(173,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_pref.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(180,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_pref.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(184,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_pref.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(189,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_pref.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '../interface/w32g_pref.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(337,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(339,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(393,2): warning C4013: 'tmdy_free_config' 未定義; 假設 extern 傳回整數
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(411,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(473,6): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(474,31): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(886,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(1384,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(1388,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(1635,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(2130,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(2132,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(2163,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(2166,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(2189,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(2191,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(2221,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(2224,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(2382,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.c(3168,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  w32g_playlist.c
+  w32g_mag.c
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(169,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_mag.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(173,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_mag.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(180,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_mag.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(184,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_mag.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(189,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_mag.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_mag.c(205,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  w32g_ini.c
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ini.c(80,7): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ini.c(370,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_ini.c(372,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  w32g_i.c
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(169,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_i.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(173,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_i.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(180,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_i.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(184,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_i.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(189,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 '../interface/w32g_i.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_pref.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '../interface/w32g_i.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(2383,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(2398,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(2888,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(2891,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(2892,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(2896,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(2897,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(2979,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(2980,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3100,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3119,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3136,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3153,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3171,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3193,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3213,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3232,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3252,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3255,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3258,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3262,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3267,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3270,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3273,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3276,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3279,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3282,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3285,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3288,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3291,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3294,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3297,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3300,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3303,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3306,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3309,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3312,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3315,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3318,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3321,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3324,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3327,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3330,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3333,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3336,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3339,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3342,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3346,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3351,10): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3352,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3354,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3502,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3547,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3567,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3571,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3575,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3604,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3635,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3675,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3677,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3686,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3729,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3731,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3767,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3813,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3828,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(3859,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(4290,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_i.c(4670,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  w32g_dib.c
+  w32g_c.c
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_c.c(351,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_c.c(411,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_c.c(434,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_c.c(437,51): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_c.c(615,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_c.c(698,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_c.c(801,29): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\w32g_c.c(956,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在產生程式碼...
+w32g_c.obj : warning LNK4075: 忽略 '/EDITANDCONTINUE'，由於 '/SAFESEH' 規格
+  timw32g.vcxproj -> C:\Users\afsdl\source\repos\timidity_old\Debug\timw32g.exe
+  'pwsh.exe' 不是內部或外部命令、可執行的程式或批次檔。

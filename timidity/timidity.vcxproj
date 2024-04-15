@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <SccProjectName />
+    <SccLocalPath />
+    <ProjectGuid>{45579E0F-6A19-4E8C-B638-945E0FB44D36}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>17.0.34714.143</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>.\Debug\</OutDir>
+    <IntDir>.\Debug\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>.\Release\</OutDir>
+    <IntDir>.\Release\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>..\interface;..\libarc;..\libunimod;..\timidity;..\utils;..;..\..\include;..\portaudio\pa_common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_DEBUG;_MT;_WINDOWS;_LIB;WIN32;HAVE_CONFIG_H;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <StringPooling>true</StringPooling>
+      <MinimalRebuild>true</MinimalRebuild>
+      <ExceptionHandling />
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <SmallerTypeCheck>true</SmallerTypeCheck>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <StructMemberAlignment>8Bytes</StructMemberAlignment>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeader />
+      <PrecompiledHeaderFile>..\config.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderOutputFile>.\Debug/timidity.pch</PrecompiledHeaderOutputFile>
+      <AssemblerListingLocation>.\Debug/</AssemblerListingLocation>
+      <ObjectFileName>.\Debug/</ObjectFileName>
+      <ProgramDataBaseFileName>.\Debug/</ProgramDataBaseFileName>
+      <WarningLevel>Level3</WarningLevel>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <CompileAs>CompileAsC</CompileAs>
+    </ClCompile>
+    <Lib>
+      <OutputFile>../Debug\timidity.lib</OutputFile>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+    </Lib>
+    <ResourceCompile>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0411</Culture>
+      <AdditionalIncludeDirectories>..\interface;..\libarc;..\libunimod;..\timidity;..\utils;..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <OmitFramePointers>true</OmitFramePointers>
+      <AdditionalIncludeDirectories>..\interface;..\libarc;..\libunimod;..\timidity;..\utils;..;..\..\include;..\portaudio\pa_common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>NDEBUG;_MT;_WINDOWS;_LIB;WIN32;HAVE_CONFIG_H;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <StringPooling>true</StringPooling>
+      <ExceptionHandling />
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <StructMemberAlignment>8Bytes</StructMemberAlignment>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeaderFile>..\config.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderOutputFile>.\Release/timidity.pch</PrecompiledHeaderOutputFile>
+      <AssemblerListingLocation>.\Release/</AssemblerListingLocation>
+      <ObjectFileName>.\Release/</ObjectFileName>
+      <ProgramDataBaseFileName>.\Release/</ProgramDataBaseFileName>
+      <WarningLevel>Level3</WarningLevel>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <CompileAs>CompileAsC</CompileAs>
+    </ClCompile>
+    <Lib>
+      <AdditionalOptions>/LTCG %(AdditionalOptions)</AdditionalOptions>
+      <OutputFile>../Release\timidity.lib</OutputFile>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+    </Lib>
+    <ResourceCompile>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0411</Culture>
+      <AdditionalIncludeDirectories>..\interface;..\libarc;..\libunimod;..\timidity;..\utils;..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="aiff_a.c" />
+    <ClCompile Include="aq.c" />
+    <ClCompile Include="audio_cnv.c" />
+    <ClCompile Include="au_a.c" />
+    <ClCompile Include="common.c" />
+    <ClCompile Include="controls.c" />
+    <ClCompile Include="effect.c" />
+    <ClCompile Include="filter.c" />
+    <ClCompile Include="flac_a.c" />
+    <ClCompile Include="freq.c" />
+    <ClCompile Include="gogo_a.c" />
+    <ClCompile Include="instrum.c" />
+    <ClCompile Include="list_a.c" />
+    <ClCompile Include="loadtab.c" />
+    <ClCompile Include="m2m.c" />
+    <ClCompile Include="mfi.c" />
+    <ClCompile Include="mfnode.c" />
+    <ClCompile Include="miditrace.c" />
+    <ClCompile Include="mix.c" />
+    <ClCompile Include="mod.c" />
+    <ClCompile Include="mod2midi.c" />
+    <ClCompile Include="modmid_a.c" />
+    <ClCompile Include="mt19937ar.c" />
+    <ClCompile Include="optcode.c" />
+    <ClCompile Include="output.c" />
+    <ClCompile Include="playmidi.c" />
+    <ClCompile Include="portaudio_a.c" />
+    <ClCompile Include="quantity.c" />
+    <ClCompile Include="raw_a.c" />
+    <ClCompile Include="rcp.c" />
+    <ClCompile Include="readmidi.c" />
+    <ClCompile Include="recache.c" />
+    <ClCompile Include="resample.c" />
+    <ClCompile Include="reverb.c" />
+    <ClCompile Include="sbkconv.c" />
+    <ClCompile Include="sffile.c" />
+    <ClCompile Include="sfitem.c" />
+    <ClCompile Include="smfconv.c" />
+    <ClCompile Include="smplfile.c" />
+    <ClCompile Include="sndfont.c" />
+    <ClCompile Include="tables.c" />
+    <ClCompile Include="timidity.c" />
+    <ClCompile Include="version.c" />
+    <ClCompile Include="vorbis_a.c" />
+    <ClCompile Include="w32_a.c" />
+    <ClCompile Include="w32_gogo.c" />
+    <ClCompile Include="wave_a.c" />
+    <ClCompile Include="wrdt.c" />
+    <ClCompile Include="wrd_read.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="aenc.h" />
+    <ClInclude Include="aq.h" />
+    <ClInclude Include="audio_cnv.h" />
+    <ClInclude Include="audriv.h" />
+    <ClInclude Include="common.h" />
+    <ClInclude Include="controls.h" />
+    <ClInclude Include="dlutils.h" />
+    <ClInclude Include="filter.h" />
+    <ClInclude Include="gogo_a.h" />
+    <ClInclude Include="instrum.h" />
+    <ClInclude Include="mac_com.h" />
+    <ClInclude Include="mac_main.h" />
+    <ClInclude Include="mfnode.h" />
+    <ClInclude Include="miditrace.h" />
+    <ClInclude Include="mix.h" />
+    <ClInclude Include="mod.h" />
+    <ClInclude Include="mod2midi.h" />
+    <ClInclude Include="mt19937ar.h" />
+    <ClInclude Include="optcode.h" />
+    <ClInclude Include="output.h" />
+    <ClInclude Include="playmidi.h" />
+    <ClInclude Include="readmidi.h" />
+    <ClInclude Include="recache.h" />
+    <ClInclude Include="resample.h" />
+    <ClInclude Include="reverb.h" />
+    <ClInclude Include="sffile.h" />
+    <ClInclude Include="sfitem.h" />
+    <ClInclude Include="sflayer.h" />
+    <ClInclude Include="smfconv.h" />
+    <ClInclude Include="sysdep.h" />
+    <ClInclude Include="tables.h" />
+    <ClInclude Include="timidity.h" />
+    <ClInclude Include="w32_gogo.h" />
+    <ClInclude Include="wrd.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\calcnewton\calcnewton.vcxproj">
+      <Project>{4f65093e-e5c5-46c1-819d-0987086bf312}</Project>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

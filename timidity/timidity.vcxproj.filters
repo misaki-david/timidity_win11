@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9d977130-41b6-4865-95bc-17f2c64bc18d}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8f17494d-47fc-479c-a755-64c7a0f6365b}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="aiff_a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="aq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="au_a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_cnv.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="controls.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="effect.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="flac_a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="freq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gogo_a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="instrum.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="list_a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="loadtab.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="m2m.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mfi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mfnode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="miditrace.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mix.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mod.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mod2midi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modmid_a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mt19937ar.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="optcode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="output.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="playmidi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="portaudio_a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="quantity.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="raw_a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rcp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="readmidi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recache.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="resample.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="reverb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sbkconv.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sffile.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sfitem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="smfconv.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="smplfile.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sndfont.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tables.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="timidity.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="version.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vorbis_a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="w32_a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="w32_gogo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wave_a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wrd_read.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wrdt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="aenc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="aq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_cnv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="audriv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="controls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dlutils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gogo_a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="instrum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mac_com.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mac_main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mfnode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="miditrace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mod2midi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mt19937ar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="optcode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="output.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="playmidi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="readmidi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="recache.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="reverb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sffile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sfitem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sflayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="smfconv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sysdep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="timidity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="w32_gogo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wrd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

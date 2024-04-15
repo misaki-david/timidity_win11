@@ -1,0 +1,46 @@
+﻿  bitset.c
+  fft.c
+C:\Users\afsdl\source\repos\timidity_old\utils\fft.c(68,18): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\utils\fft.c(71,18): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\utils\fft.c(72,15): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\utils\fft.c(77,18): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\utils\fft.c(84,18): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\utils\fft.c(85,7): warning C4018: '<': signed/unsigned 不相符
+  fft4g.c
+C:\Users\afsdl\source\repos\timidity_old\utils\fft4g.c(348,20): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\utils\fft4g.c(677,27): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\utils\fft4g.c(680,18): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\utils\fft4g.c(684,21): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\utils\fft4g.c(685,21): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\utils\fft4g.c(705,27): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\utils\fft4g.c(706,16): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\utils\fft4g.c(707,22): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\utils\fft4g.c(709,24): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\utils\fft4g.c(710,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\utils\fft4g.c(1275,19): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\utils\fft4g.c(1301,19): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  getopt.c
+C:\Users\afsdl\source\repos\timidity_old\utils\getopt.c(121,21): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\utils\getopt.c(656,18): warning C4028: 型式參數 1 與來自宣告的不同
+C:\Users\afsdl\source\repos\timidity_old\utils\getopt.c(656,37): warning C4028: 型式參數 2 與來自宣告的不同
+C:\Users\afsdl\source\repos\timidity_old\utils\getopt.c(668,23): warning C4028: 型式參數 1 與來自宣告的不同
+C:\Users\afsdl\source\repos\timidity_old\utils\getopt.c(668,42): warning C4028: 型式參數 2 與來自宣告的不同
+C:\Users\afsdl\source\repos\timidity_old\utils\getopt.c(677,13): warning C4028: 型式參數 1 與來自宣告的不同
+C:\Users\afsdl\source\repos\timidity_old\utils\getopt.c(677,32): warning C4028: 型式參數 2 與來自宣告的不同
+  mblock.c
+  memb.c
+  net.c
+C:\Users\afsdl\source\repos\timidity_old\utils\net.c(125,13): warning C4013: '_close' 未定義; 假設 extern 傳回整數
+C:\Users\afsdl\source\repos\timidity_old\utils\net.c(216,9): warning C4068: 未知的 pragma 'argsused'
+  nkflib.c
+C:\Users\afsdl\source\repos\timidity_old\utils\nkflib.c(508,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  readdir_win.c
+C:\Users\afsdl\source\repos\timidity_old\utils\readdir_win.c(68,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\utils\readdir_win.c(72,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\utils\readdir_win.c(113,25): warning C4267: '=': 將 'size_t' 轉換為 'unsigned short'，資料可能遺失
+C:\Users\afsdl\source\repos\timidity_old\utils\readdir_win.c(108,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  strtab.c
+  support.c
+  timer.c
+K:\Program Files\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(C:\Users\afsdl\source\repos\timidity_old\utils\Release\utils.lib) 與 Library 的 OutputFile 屬性值 (C:\Users\afsdl\source\repos\timidity_old\Release\utils.lib) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Lib.OutputFile) 中指定的值相符。
+  utils.vcxproj -> C:\Users\afsdl\source\repos\timidity_old\utils\Release\utils.lib

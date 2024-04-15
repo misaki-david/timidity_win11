@@ -1,0 +1,68 @@
+﻿cl : 命令列  warning D9035: 選項 'Gm' 已被取代，在未來的發行版本中將會移除
+  wrdt_tty.c
+  wrdt_dumb.c
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(169,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'wrdt_tty.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(173,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'wrdt_tty.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(180,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'wrdt_tty.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(184,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'wrdt_tty.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(189,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'wrdt_tty.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\wrdt_tty.c(214,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\wrdt_tty.c(218,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\wrdt_tty.c(221,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\wrdt_tty.c(235,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\wrdt_tty.c(237,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(169,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'wrdt_dumb.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(173,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'wrdt_dumb.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(180,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'wrdt_dumb.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(184,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'wrdt_dumb.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(189,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'wrdt_dumb.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\interface\wrdt_dumb.c(199,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\wrdt_dumb.c(203,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\wrdt_dumb.c(206,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\wrdt_dumb.c(220,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\wrdt_dumb.c(222,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  VTPrsTbl.c
+  vt100_c.c
+C:\Users\afsdl\source\repos\timidity_old\interface\vt100_c.c(770,9): warning C4013: 'write' 未定義; 假設 extern 傳回整數
+C:\Users\afsdl\source\repos\timidity_old\interface\vt100_c.c(880,8): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\interface\vt100_c.c(882,6): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  vt100.c
+  dumb_c.c
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(169,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'dumb_c.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(173,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'dumb_c.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(180,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'dumb_c.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(184,6): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'dumb_c.c')
+  
+C:\Users\afsdl\source\repos\timidity_old\timidity\wrd.h(189,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (編譯來源檔案 'dumb_c.c')
+  
+  正在產生程式碼...
+K:\Program Files\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(C:\Users\afsdl\source\repos\timidity_old\interface\Debug\interface.lib) 與 Library 的 OutputFile 屬性值 (C:\Users\afsdl\source\repos\timidity_old\Debug\interface.lib) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Lib.OutputFile) 中指定的值相符。
+  interface.vcxproj -> C:\Users\afsdl\source\repos\timidity_old\interface\Debug\interface.lib

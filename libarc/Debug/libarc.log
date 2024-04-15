@@ -1,0 +1,86 @@
+﻿cl : 命令列  warning D9035: 選項 'Gm' 已被取代，在未來的發行版本中將會移除
+  url_uudecode.c
+  url_qsdecode.c
+  url_pipe.c
+  url_newsgroup.c
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_pipe.c(82,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_newsgroup.c(146,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_newsgroup.c(168,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_newsgroup.c(239,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_newsgroup.c(359,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_newsgroup.c(390,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  url_news.c
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_news.c(290,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_news.c(323,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_news.c(346,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  url_mem.c
+  url_inflate.c
+  url_http.c
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_http.c(245,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_http.c(254,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_http.c(262,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  url_hqxdecode.c
+  url_ftp.c
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_ftp.c(206,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_ftp.c(209,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_ftp.c(223,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_ftp.c(314,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_ftp.c(320,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_ftp.c(322,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_ftp.c(335,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_ftp.c(350,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_ftp.c(355,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_ftp.c(436,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_ftp.c(444,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  url_file.c
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_file.c(268,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  url_dir.c
+C:\Users\afsdl\source\repos\timidity_old\libarc\url_dir.c(358,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  url_cache.c
+  url_buff.c
+  url_b64decode.c
+  url.c
+C:\Users\afsdl\source\repos\timidity_old\libarc\url.c(322,15): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\url.c(324,19): warning C4018: '>': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\url.c(513,9): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  unlzh.c
+C:\Users\afsdl\source\repos\timidity_old\libarc\unlzh.c(554,35): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\unlzh.c(561,46): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\unlzh.c(814,32): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\unlzh.c(862,18): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\unlzh.c(979,10): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\unlzh.c(994,12): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\unlzh.c(1084,18): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\unlzh.c(1110,18): warning C4018: '<=': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\unlzh.c(1121,15): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\unlzh.c(1136,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\unlzh.c(1143,19): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\unlzh.c(1179,10): warning C4018: '>': signed/unsigned 不相符
+  inflate.c
+C:\Users\afsdl\source\repos\timidity_old\libarc\inflate.c(619,22): warning C4018: '<': signed/unsigned 不相符
+  explode.c
+  deflate.c
+C:\Users\afsdl\source\repos\timidity_old\libarc\deflate.c(1087,7): warning C4018: '>': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\deflate.c(1109,7): warning C4018: '>': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libarc\deflate.c(1881,26): warning C4018: '>': signed/unsigned 不相符
+  正在產生程式碼...
+  正在編譯...
+  arc_zip.c
+  arc_tar.c
+  arc_mime.c
+C:\Users\afsdl\source\repos\timidity_old\libarc\arc_mime.c(296,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  arc_lzh.c
+C:\Users\afsdl\source\repos\timidity_old\libarc\arc_lzh.c(485,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\arc_lzh.c(486,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  arc.c
+C:\Users\afsdl\source\repos\timidity_old\libarc\arc.c(375,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\arc.c(376,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\arc.c(377,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\arc.c(455,6): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\arc.c(465,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\arc.c(466,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\arc.c(503,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libarc\arc.c(505,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在產生程式碼...
+K:\Program Files\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(C:\Users\afsdl\source\repos\timidity_old\libarc\Debug\libarc.lib) 與 Library 的 OutputFile 屬性值 (C:\Users\afsdl\source\repos\timidity_old\Debug\libarc.lib) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Lib.OutputFile) 中指定的值相符。
+  libarc.vcxproj -> C:\Users\afsdl\source\repos\timidity_old\libarc\Debug\libarc.lib

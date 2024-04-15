@@ -1,0 +1,7 @@
+﻿cl : 命令列  warning D9035: 選項 'Gm' 已被取代，在未來的發行版本中將會移除
+  calcnewt.c
+C:\Users\afsdl\source\repos\timidity_back\timidity\calcnewt.c(47,25): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_back\timidity\calcnewt.c(19,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+calcnewt.obj : warning LNK4075: 忽略 '/EDITANDCONTINUE'，由於 '/SAFESEH' 規格
+  calcnewton.vcxproj -> C:\Users\afsdl\source\repos\timidity_back\calcnewton\Debug\calcnewton.exe
+  'pwsh.exe' 不是內部或外部命令、可執行的程式或批次檔。

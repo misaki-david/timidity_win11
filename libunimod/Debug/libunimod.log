@@ -1,0 +1,81 @@
+﻿cl : 命令列  warning D9035: 選項 'Gm' 已被取代，在未來的發行版本中將會移除
+  munitrk.c
+  mmsup.c
+  mlutil.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\munitrk.c(289,20): warning C4244: '=': 將 'UWORD' 轉換為 'UBYTE'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\libunimod\mlutil.c(246,39): warning C4244: '=': 將 'unsigned long' 轉換為 'UWORD'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\libunimod\mlutil.c(298,66): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libunimod\mlutil.c(305,22): warning C4018: '>': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libunimod\mlutil.c(309,23): warning C4018: '<': signed/unsigned 不相符
+  mloader.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\mloader.c(138,22): warning C4244: '正在初始化': 將 'SWORD' 轉換為 'SBYTE'，由於類型不同，可能導致資料遺失
+  load_xm.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\mloader.c(708,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\mloader.c(784,8): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\mloader.c(785,8): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_xm.c(382,19): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_xm.c(749,20): warning C4244: '=': 將 'UWORD' 轉換為 'UBYTE'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_xm.c(751,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_xm.c(758,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  load_uni.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_uni.c(551,18): warning C4244: '=': 將 'UWORD' 轉換為 'UBYTE'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_uni.c(619,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  load_ult.c
+  load_stx.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_stx.c(385,20): warning C4244: '=': 將 'UWORD' 轉換為 'UBYTE'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_stx.c(339,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  load_stm.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_stm.c(239,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_stm.c(313,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  load_s3m.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_s3m.c(350,20): warning C4244: '=': 將 'UWORD' 轉換為 'UBYTE'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_s3m.c(454,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  load_okt.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_okt.c(208,18): warning C4244: '=': 將 'ULONG' 轉換為 'UWORD'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_okt.c(209,30): warning C4018: '>': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_okt.c(324,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_okt.c(326,15): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_okt.c(432,9): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  load_mtm.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_mtm.c(179,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  load_mod.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_mod.c(309,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_mod.c(437,18): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_mod.c(439,18): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  load_med.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_med.c(266,24): warning C4244: '函式': 將 'UWORD' 轉換為 'UBYTE'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_med.c(615,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  load_m15.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_m15.c(163,17): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_m15.c(481,18): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_m15.c(483,18): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  load_it.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_it.c(473,32): warning C4244: '=': 將 'UWORD' 轉換為 'UBYTE'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_it.c(558,18): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_it.c(560,18): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_it.c(563,20): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  load_imf.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_imf.c(452,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  load_gdm.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_gdm.c(425,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  load_far.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_far.c(203,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  load_dsm.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_dsm.c(299,17): warning C4244: '=': 將 'UWORD' 轉換為 'UBYTE'，由於類型不同，可能導致資料遺失
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_dsm.c(298,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  正在產生程式碼...
+  正在編譯...
+  load_amf.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_amf.c(573,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_amf.c(429,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  load_669.c
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_669.c(312,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_669.c(328,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_669.c(329,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_669.c(331,4): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_669.c(332,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_669.c(334,4): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\afsdl\source\repos\timidity_old\libunimod\load_669.c(335,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在產生程式碼...
+K:\Program Files\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(C:\Users\afsdl\source\repos\timidity_old\libunimod\Debug\libunimod.lib) 與 Library 的 OutputFile 屬性值 (C:\Users\afsdl\source\repos\timidity_old\Debug\libunimod.lib) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Lib.OutputFile) 中指定的值相符。
+  libunimod.vcxproj -> C:\Users\afsdl\source\repos\timidity_old\libunimod\Debug\libunimod.lib
